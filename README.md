@@ -1,2 +1,2 @@
 # JF1020
-JF1020 dataset
+The JF1020 dataset will be fully published upon acceptance of the paper.
